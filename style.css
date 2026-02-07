@@ -21,11 +21,11 @@ header {
     margin: 20px auto;
 }
 section {
-  margin: 20px auto;
+  margin: 0px ;
   padding: 20px;
   background-color: #f8eaea;
-  border-radius: 10px;
-  max-width: 900px;
+  border-radius: 0px;
+  max-width: 0px;
 }
 
 table {
@@ -46,7 +46,7 @@ th {
 }
 
 section {
-    background: pink;
+    background: blanchedalmond;
     margin: 20px;
     padding: 20px;
     border-radius: 8px;
@@ -100,6 +100,7 @@ footer {
     background: #ddd;
 }
 </style>
+
 
 
 
