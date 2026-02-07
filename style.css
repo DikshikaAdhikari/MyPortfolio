@@ -43,7 +43,7 @@ h2 {
     background-color: #f0f0f0; /* light gray background */
     padding: 20px;
     border-radius: 10px;
-    margin: 20px 0;
+    margin: 20px ;
   }
 
   #hobbies h2 {
@@ -77,4 +77,5 @@ footer {
     padding: 15px;
     background: #ddd;
 }
+
 
